@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
+### About me:
+I am Ka Woon Tam. I am a student at ucdavis in the statistic department. I am interested in working as a data scientist. I am proficient with R, Python, Sql, Excel. Feel free to contact me for more question.
 
-<p class="red">Hello STA 141B!</p>
 
-You can use the [editor on GitHub](https://github.com/nick-ulle/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Participation:
+[Analysis on housing price](https://github.com/cjacquelineq/STA141B-Project-House-Price)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 

@@ -4,6 +4,6 @@ I am Ka Woon Tam. I am a student at ucdavis in the statistic department. I am in
 
 
 ### Participation:
-[Analysis on housing price](https://github.com/cjacquelineq/STA141B-Project-House-Price)
+[Analysis on housing price in California](https://cjacquelineq.github.io/STA141B-Project-House-Price/STA+141B+Project+House+Price.html)
 
 
